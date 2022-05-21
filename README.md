@@ -6,5 +6,6 @@ triggers to validate user information, e.g. stopping users from giving self like
 Below the script for the instagram databse clone, that was used to practice SQL.
 
 ![image](https://user-images.githubusercontent.com/102123401/169633954-44a5bcf9-2bdb-4418-aef7-38d27112dcb5.png)
-![image](https://user-images.githubusercontent.com/102123401/169633965-7e91dd64-1106-455e-91d6-e1160d40d5c6.png)
+![image](https://user-images.githubusercontent.com/102123401/169634027-51131d8c-d40c-4057-be43-7570dd254919.png)
+
 
