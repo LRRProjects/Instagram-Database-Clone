@@ -1,7 +1,6 @@
 # MySQL-Practice-Scripts
 
-Scripts used to practice SQL in a MySQL database. The scripts include files that simulate Instagram database tables and
-triggers to validate user information, e.g. stopping users from giving self likes.
+Scripts used to practice SQL in a MySQL database. The scripts include files that simulate Instagram database tables and triggers to validate user information, e.g. stopping users from giving self-likes.
 
 Below the script for the instagram databse clone, that was used to practice SQL.
 
